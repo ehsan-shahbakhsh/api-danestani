@@ -14,6 +14,7 @@ class Danestani
         $this->baseAPI['ok'] = true;
         $this->baseAPI['status'] = 200;
         $this->baseAPI['result'] = $data[array_rand($data)];
+        http_response_code(200);
     }
 
     public function __toString(): string
