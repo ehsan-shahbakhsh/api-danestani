@@ -2,7 +2,7 @@
 Getting information randomly.
 
 ## Source
-* [`index.php`](https://github.com/ehsan-shahbakhsh/api-danestani/blob/main/example/index.php)
+* [`index.php`](https://github.com/ehsan-shahbakhsh/api-danestani/blob/main/index.php)
 
 ## How to use
 ```
